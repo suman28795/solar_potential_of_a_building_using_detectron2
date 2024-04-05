@@ -1,0 +1,1 @@
+# solar_potential_of_a_building_using_detectron2
